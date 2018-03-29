@@ -1,3 +1,8 @@
 ## Table of contents
 
-[networking](networking/sriov/base.md)
+Networking
+* SR-IOV
+  * [base](networking/sriov/base.md)
+  * [advanced](networking/sriov/in_depth.md)
+* Service Function Chaining
+  * [base](networking/sfc/base.md)
